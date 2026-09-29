@@ -4,6 +4,8 @@
 
 🎮 Gaming • 🎸 Guitar • 🐧 Linux • 💻 Programming
 
+<hr>
+
 ### 💻 Languages I work with
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
@@ -12,9 +14,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP">
 </p>
 
+<hr>
+
 ### 🛠️ Tools
 
 VS Code • Eclipse • XAMPP • Tinkercad
+
+<hr>
 
 ### 🚀 Projects
 
@@ -46,6 +52,8 @@ VS Code • Eclipse • XAMPP • Tinkercad
   </p>
 
 </div>
+
+<hr>
 
 ### 📚 Currently Learning
 
