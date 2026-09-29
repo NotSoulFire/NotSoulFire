@@ -1,9 +1,8 @@
-## Hi there 👋 I'm Soul
-#### I like 
-- 🎮 Gaming
-- 🎸 Guitar
-- 🐧 Linux
-- 💻 Programming
+## Hi there! 👋 I'm Soul
+
+### 🎮 Interests
+
+🎮 Gaming • 🎸 Guitar • 🐧 Linux • 💻 Programming
 
 #### 💻 Languages I work with
 <p align="center">
@@ -19,15 +18,34 @@ VS Code • Eclipse • XAMPP • Tinkercad
 
 #### 🚀 Projects
 
-### ☕ Cozy Cafe
-A cozy Minecraft modpack focused on a vanilla-like experience.
+<div align="center">
 
-### ⏱️ BPM Timer
-A mobile app project focused on learning mobile development.
+  <h3>☕ Cozy Cafe</h3>
 
-### 🎌 AniTrack
-A personal anime and manga organizer for keeping track of what I'm watching,
-reading, and where I left off.
+  <p>
+    A cozy Minecraft modpack focused on a vanilla-like experience.
+  </p>
+
+</div>
+
+<div align="center">
+
+  <h3>⏱️ BPM Timer</h3>
+
+  <p>
+    A mobile app project focused on learning mobile development.
+  </p>
+
+</div>
+
+  <h3>🎌 AniTrack</h3>
+
+  <p>
+    A personal anime and manga organizer for keeping track of what I'm watching,
+    reading, and where I left off.
+  </p>
+
+</div>
 
 #### 📚 Currently Learning
 
