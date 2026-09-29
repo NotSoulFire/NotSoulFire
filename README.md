@@ -37,7 +37,7 @@ VS Code • Eclipse • XAMPP • Tinkercad
   </p>
 
 </div>
-
+<div align="center">
   <h3>🎌 AniTrack</h3>
 
   <p>
