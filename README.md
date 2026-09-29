@@ -13,14 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP">
 </p>
 
-#### 🛠️ Tools & Technologies
+#### 🛠️ Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" alt="Eclipse">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/xampp.svg" width="50" alt="XAMPP">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/tinkercad.svg" width="50" alt="Tinkercad">
-</p>
+VS Code • Eclipse • XAMPP • Tinkercad
 
 #### 🚀 Projects
 
