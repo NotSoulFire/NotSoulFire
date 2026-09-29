@@ -4,7 +4,7 @@
 
 🎮 Gaming • 🎸 Guitar • 🐧 Linux • 💻 Programming
 
-#### 💻 Languages I work with
+### 💻 Languages I work with
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java">
@@ -12,11 +12,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP">
 </p>
 
-#### 🛠️ Tools
+### 🛠️ Tools
 
 VS Code • Eclipse • XAMPP • Tinkercad
 
-#### 🚀 Projects
+### 🚀 Projects
 
 <div align="center">
 
@@ -47,7 +47,7 @@ VS Code • Eclipse • XAMPP • Tinkercad
 
 </div>
 
-#### 📚 Currently Learning
+### 📚 Currently Learning
 
 - 📱 Mobile development
 - 🌐 Web development
