@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP">
 </p>
 
-<hr>
+<hr><hr>
 
 ### 🛠️ Tools
 
