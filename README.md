@@ -38,10 +38,10 @@ VS Code • Eclipse • XAMPP • Tinkercad
 
 <div align="center">
 
-  <h3>⏱️ BPM Timer</h3>
+  <h3>⏱️ TimedBpm</h3>
 
   <p>
-    A mobile app project focused on learning mobile development.
+    A mobile metronome app with a timer, designed for better guitar practice.
   </p>
 
 </div>
